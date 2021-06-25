@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SarahCodes23
-- 👀 I’m interested in AI, Data Analysis and Visualization!
+- 👀 I’m interested in AI, Data Analysis, UX research and design and Visualization!
 - 🌱 I’m currently researching about Conversational Agents (AI) in Suicide Detection and Prevention
 - 💞️ I’m looking to collaborate on tasks to improve my skills and contribute to making lives easier
 - 📫 How to reach me sarahmbawa@hotmail.com
